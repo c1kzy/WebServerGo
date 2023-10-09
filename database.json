@@ -1,1 +1,1 @@
-{"chirps":{},"users":{"1":{"id":1,"email":"saul@bettercall.com","hashed_password":"$2a$10$2V1HDfpSeQ23QztUTVeD8OxeAj7e26tjjBUt1aaBX1x.DbQ9VXVK6"}}}
+{"chirps":{"1":{"id":1,"author_id":1,"body":"I'm the one who knocks!"},"2":{"id":2,"author_id":1,"body":"Gale!"},"3":{"id":3,"author_id":1,"body":"Cmon Pinkman"},"4":{"id":4,"author_id":1,"body":"Darn that fly, I just wanna cook"}},"users":{"1":{"email":"walt@breakingbad.com","hashed_password":"$2a$10$OlkBCYfkDU323D.sulcDCuL89dyVUSdhs88e.7VlLKLdIAil7EwO6","id":1,"is_chirpy_red":false}},"revocations":{}}
